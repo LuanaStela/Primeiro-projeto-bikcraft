@@ -8,11 +8,8 @@
   gap: 20px;
   justify-content: space-between;
   align-items: center;
-  box-sizing: border-box;
-  padding: 20px;
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .header-menu {
@@ -32,7 +29,7 @@
   display: block;
   height: 2px;
   width: 0px;
-  background:var(--cor-0);
+  background: var(--cor-0);
   margin-top: 4px;
   transition: 0.3s;
   position: absolute;
@@ -52,7 +49,7 @@
     border-radius: 4px;
   }
   .header-menu a:hover {
-    background-color:var(--cor-10);
+    background-color: var(--cor-10);
   }
   .header a::after {
     display: none;
