@@ -3,7 +3,7 @@
   box-shadow: inset 0 80px var(--cor-0), inset 0 -80px var(--cor-0);
 }
 
-.tecologia {
+.tecnologia {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 40px;
@@ -72,8 +72,8 @@
   }
 }
 
-@media(max-width: 600px) {
-  .tecnologia-vantagens{
+@media (max-width: 600px) {
+  .tecnologia-vantagens {
     flex-direction: column;
   }
 }
