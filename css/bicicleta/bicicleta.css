@@ -46,10 +46,10 @@
 .bicicleta-comprar span {
   display: flex;
   align-items: center;
-  background-color: var(--cor-12);
   gap: 8px;
   padding: 4px 8px;
   border-radius: 4px;
+  background-color: var(--cor-12);
 }
 
 .bicicleta-conteudo h2 {

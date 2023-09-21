@@ -1,5 +1,8 @@
 .vantagens-bg {
-  background-color: var(--cor-12);
+  background: url("../../img/dec/bottom-left.svg") no-repeat bottom 40px left
+      20px,
+    url("../../img/dec/bottom-right.svg") no-repeat bottom 40px right 20px,
+    var(--cor-12);
 }
 
 .vantagens {

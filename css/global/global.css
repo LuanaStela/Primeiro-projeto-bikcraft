@@ -31,6 +31,6 @@ img {
   display: block;
 }
 
-img [src$=".jpg"] {
+img[src$=".jpg"] {
   border-radius: 4px;
 }
